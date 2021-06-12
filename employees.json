@@ -1,0 +1,43 @@
+{
+   " employees" : [
+        {
+            "EmployeeFirstName":"BIJIL",
+            "EmployeeLastName":"VARGHESE",
+            "EmailId":"varghesebijil1313@gmail.com",
+            "PhoneNumber":"232122",
+            "DateOfBirth":"21-03-1997"
+        },
+        {
+            "EmployeeFirstName":"ANGEL",
+            "EmployeeLastName":"VARGHESE",
+            "EmailId":"angel12@gmail.com",
+            "PhoneNumber":"235522",
+            "DateOfbirth":"16-03-1992"
+
+        },
+        {
+            "EmployeeFirstName":"LINETTE",
+            "EmployeeLastName":"KOSHY",
+            "EmailId":"linette313@gmail.com",
+            "PhoneNumber":"287622",
+            "DateOfBirth":"19-09-1998"
+
+        },
+        {
+            "EmployeeFirstName":"GAYATHRI",
+            "EmployeeLastName":"US",
+            "EmailId":"gayu3us@gmail.com",
+            "PhoneNumber":"278232",
+            "DateOfBirth":"22-01-1996"
+
+        },
+        {
+            "EmployeeFirstName":"MERIN",
+            "EmployeeLastName":"SHIBU",
+            "EmailId":"shibumerin13@gmail.com",
+            "PhoneNumber":"239977",
+            "DateOfBirth":"07-08-1994"
+
+        }
+    ]
+}    
